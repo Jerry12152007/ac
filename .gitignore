@@ -1,0 +1,8 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+*.user
+.vs/
+
+# Studio runtime data (never commit local scans / exports)
+exports/

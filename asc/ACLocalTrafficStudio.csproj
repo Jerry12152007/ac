@@ -8,5 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>AC Local Traffic Studio</AssemblyName>
     <RootNamespace>ACLocalTrafficStudio</RootNamespace>
+    <Version>2.0.0</Version>
+    <AssemblyTitle>AC Local Traffic Studio</AssemblyTitle>
+    <Description>神力科莎本地 AI 交通管理工作室 — 完全離線、唯讀的本地 AI 交通規劃工具</Description>
   </PropertyGroup>
 </Project>
